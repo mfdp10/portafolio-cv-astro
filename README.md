@@ -1,6 +1,6 @@
 Repositorio tipo portafolio hecho en Astro con algunos de mis trabajos
 
--[Portafolio-CV](https://mfdp10.github.io/portafolio-cv-astro/)
+-[Portafolio-CV-Astro](https://mfdp10.github.io/portafolio-cv-astro/)
 
 # Astro Starter Kit: Minimal
 
